@@ -94,9 +94,14 @@ margin-top: 30px;
     margin-top: 20px;
 }
 
-@media (max-width: 1416px) {
+@media (max-width: 1145px) {
 
     .botao-busca{
         padding: 8px;
+    }
+
+    .input-cidade {
+        width: 216px;
+
     }
 }
